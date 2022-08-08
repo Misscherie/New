@@ -55,5 +55,14 @@ class HelloWorld {
         if (num1 > num3)
         {
             ConsoleWrite("первое чилcо наибольшее" \n\n);
-    else 
+        }
+            else if (num2 > num3)
+            {
+            ConsoleWrite("второе число наибольшее" \n\n);
+            }
+            else 
+            {
+            ConsoleWrite("третье число наибольшее" \n\n);
+            }
+
             
